@@ -77,23 +77,26 @@
     color: #fff;
     font-size: 36px;
 }
-.projects{
-    height: 80vh;
-}
 
 .contact{
     display: block;
-    padding: 5% 18%;
+    padding: 5% 12%;
     background: url(../images/bg2.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
 .contact i{
-    font-size: 2rem;
+    font-size: 1.8rem;
+}
+.card-deck .card{
+    min-width: 25%;
 }
 
 @media screen and (max-width: 768px){
     .contact-descriptions{
         text-align: center;
+    }
+    .contact{
+        padding:5% 5%;
     }
 }
