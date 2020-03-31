@@ -71,7 +71,7 @@
 }
 .quote{
     padding: 150px 150px;
-    background: url(../images/bg2.jpg);
+    background: url(../images/bg2.webp);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -82,7 +82,7 @@
 .contact{
     display: block;
     padding: 5% 12%;
-    background: url(../images/bg2.jpg);
+    background: url(../images/bg2.webp);
     background-attachment: fixed;
     background-size: cover;
 }
